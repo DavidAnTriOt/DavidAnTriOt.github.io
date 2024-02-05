@@ -36,6 +36,6 @@ Destacar un tercer proyecto significativo y sus resultados.
 - [Sitio Web Personal](https://davidantriot.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/david-andre-trinidad-otero-2812881b3/)
 - [GitHub](https://github.com/davidantriot)
-- ![Facebook imagen](https://iconos8.es/icon/118466/facebook-nuevo)[Facebook](https://www.facebook.com/Rad.Redem/)
+- [Facebook](https://www.facebook.com/Rad.Redem/)
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesante mi trabajo y estaré encantado de conectarme contigo.
