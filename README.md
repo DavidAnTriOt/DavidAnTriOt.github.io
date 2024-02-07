@@ -8,21 +8,22 @@ Actualmente, estoy cursando la carrera de Ingeniería de Sistemas e Informática
 
 ## Proyectos Destacados
 
-### 1. [Proyecto 1](#)
-Breve descripción del primer proyecto y sus logros.
+### 1. [Proyecto Red Social Universidad X](https://github.com/DavidAnTriOt/red_social_universidad.git)
+Red Social sobre una Universidad llamada X, utilizando Java en Android Studio.
 
-### 2. [Proyecto 2](#)
-Exploración de otro proyecto impactante y aprendizajes obtenidos.
+### 2. [Proyecto Dispensador de Comida](#)
+Proyecto de IoT utilizando el módulo ESP32 con Telegram usando BotFather.
 
-### 3. [Proyecto 3](#)
-Destacar un tercer proyecto significativo y sus resultados.
+### 3. [Proyecto Sistema de Gestión de Establecimientos](https://github.com/DavidAnTriOt/municipalidad.git)
+Web para gestionar los diferentes establecimientos de una municipalidad, utilizando PHP, SQL, Laravel.
 
 ## Habilidades
 
-- **HTML/CSS/JavaScript:** Desarrollo de páginas web interactivas y atractivas.
+- **HTML/CSS/JavaScript/Bootstrap:** Desarrollo de páginas web interactivas y atractivas.
 - **Android:** Creación de aplicaciones móviles para la plataforma Android.
 - **PHP:** Desarrollo de aplicaciones web dinámicas y robustas.
 - **Java:** Experiencia en programación orientada a objetos y desarrollo multiplataforma.
+- **Python:** Creación en variedad de aplicaciones, desde desarrollo web hasta inteligencia artificial.
 
 ## Cómo Contactarme
 
@@ -34,8 +35,9 @@ Destacar un tercer proyecto significativo y sus resultados.
 ## Enlaces
 
 - [Sitio Web Personal](https://davidantriot.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/david-andre-trinidad-otero-2812881b3/)
-- [GitHub](https://github.com/davidantriot)
+- [LinkedIn](https://www.linkedin.com/in/david-andre-trinidad-otero-2812881b3)
+- [GitHub](https://github.com/DavidAnTriOt/)
 - [Facebook](https://www.facebook.com/Rad.Redem/)
+- [WhatsApp](https://wa.me/qr/2EGXCPQ3Q4BCC1)
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres interesante mi trabajo y estaré encantado de conectarme contigo.
